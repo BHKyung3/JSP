@@ -1,0 +1,97 @@
+
+4월 03, 2025 09:09:49.79 NEW SESSION
+4월 03, 2025 09:09:49.79 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 03, 2025 09:09:50.14 [3940:11068:0403/090950.140:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:12:56.46 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 03, 2025 09:12:56.73 [4732:8308:0403/091256.736:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:13:18.32 [4732:8308:0403/091318.328:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:14:12.17 [4732:8308:0403/091412.171:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:15:56.50 [4732:8308:0403/091556.501:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:18:54.30 [4732:8308:0403/091854.303:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:24:18.26 [4732:8308:0403/092418.267:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:38:20.08 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 03, 2025 09:38:20.30 [11896:10376:0403/093820.305:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:38:46.33 [11896:10376:0403/093846.334:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:39:29.83 [11896:10376:0403/093929.830:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:40:14.35 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 03, 2025 09:40:14.58 [8352:4728:0403/094014.583:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:40:35.37 [8352:4728:0403/094035.378:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+4월 03, 2025 09:40:39.04 [8352:4728:0403/094039.042:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:41:17.97 [8352:4728:0403/094117.970:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+4월 03, 2025 09:41:34.53 [8352:4728:0403/094134.536:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:42:38.33 [8352:4728:0403/094238.338:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+4월 03, 2025 09:43:20.01 [8352:4728:0403/094320.017:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:43:35.52 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 03, 2025 09:43:35.75 [5204:4312:0403/094335.750:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:43:59.52 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 03, 2025 09:43:59.84 [1384:4416:0403/094359.840:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:44:24.10 [1384:4416:0403/094424.102:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:44:52.77 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 03, 2025 09:44:52.99 [4676:11948:0403/094452.992:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:45:18.43 [4676:11948:0403/094518.436:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:46:07.75 [4676:11948:0403/094607.753:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:47:29.01 [4676:11948:0403/094729.015:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:48:25.62 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 03, 2025 09:48:25.84 [5148:8708:0403/094825.841:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:48:47.08 [5148:8708:0403/094847.086:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:49:43.46 [5148:8708:0403/094943.466:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:51:32.11 [5148:8708:0403/095132.119:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:52:03.07 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 03, 2025 09:52:03.29 [3296:13092:0403/095203.294:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:52:31.92 [3296:13092:0403/095231.929:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:53:12.58 [3296:13092:0403/095312.586:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:54:59.89 [3296:8900:0403/095459.898:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 03, 2025 09:55:10.98 [3296:13092:0403/095510.979:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 09:58:07.46 [3296:13092:0403/095807.463:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 10:04:50.78 [3296:13092:0403/100450.789:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 03, 2025 17:03:14.37 [3296:8900:0403/170314.372:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 03, 2025 17:40:27.18 [3296:8900:0403/174027.187:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:27.39 [3296:8900:0403/174027.394:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:27.49 [3296:8900:0403/174027.491:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:27.59 [3296:8900:0403/174027.593:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:27.69 [3296:8900:0403/174027.697:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:27.80 [3296:8900:0403/174027.807:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:27.99 [3296:8900:0403/174027.996:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:28.09 [3296:8900:0403/174028.097:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:28.21 [3296:8900:0403/174028.218:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:28.32 [3296:8900:0403/174028.322:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:28.44 [3296:8900:0403/174028.448:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:28.59 [3296:8900:0403/174028.597:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:28.70 [3296:8900:0403/174028.703:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:40:28.74 [3296:8900:0403/174028.744:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.108 s for first_image_paint 0.094 s
+4월 03, 2025 17:42:32.29 [3296:8900:0403/174232.295:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 03, 2025 17:42:32.41 [3296:8900:0403/174232.417:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:32.58 [3296:8900:0403/174232.580:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:32.71 [3296:8900:0403/174232.714:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:32.89 [3296:8900:0403/174232.896:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:33.03 [3296:8900:0403/174233.031:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:33.67 [3296:8900:0403/174233.669:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:33.83 [3296:8900:0403/174233.832:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:33.98 [3296:8900:0403/174233.982:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:34.10 [3296:8900:0403/174234.100:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:34.48 [3296:8900:0403/174234.488:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:34.62 [3296:8900:0403/174234.621:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:34.76 [3296:8900:0403/174234.763:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:34.92 [3296:8900:0403/174234.924:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:35.11 [3296:8900:0403/174235.118:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:35.25 [3296:8900:0403/174235.251:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:35.59 [3296:8900:0403/174235.591:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:35.88 [3296:8900:0403/174235.887:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:36.01 [3296:8900:0403/174236.016:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:36.13 [3296:8900:0403/174236.130:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:36.26 [3296:8900:0403/174236.266:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:36.63 [3296:8900:0403/174236.638:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:36.83 [3296:8900:0403/174236.837:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:36.99 [3296:8900:0403/174236.992:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:37.18 [3296:8900:0403/174237.182:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:37.30 [3296:8900:0403/174237.308:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:37.44 [3296:8900:0403/174237.442:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:37.66 [3296:8900:0403/174237.667:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:37.88 [3296:8900:0403/174237.881:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:37.99 [3296:8900:0403/174237.998:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:38.11 [3296:8900:0403/174238.116:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:38.25 [3296:8900:0403/174238.256:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:38.26 [3296:8900:0403/174238.261:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:42:38.31 [3296:8900:0403/174238.309:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.23 s for first_image_paint 0.219 s
+4월 03, 2025 17:43:05.82 [3296:12396:0403/174305.829:ERROR:cert_issuer_source_aia.cc(136)] AiaRequest::OnFetchCompleted got error -105
+4월 03, 2025 17:43:05.86 [3296:12396:0403/174305.866:ERROR:cert_issuer_source_aia.cc(136)] AiaRequest::OnFetchCompleted got error -105

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="out"/>
+			<item value="update"/>
+			<item value="up"/>
+			<item value="form"/>
+			<item value="inser"/>
+			<item value="forword"/>
+			<item value="public MemberVO getMember(String id) {"/>
+			<item value="rs.ne"/>
+			<item value="getMember"/>
+			<item value="confirmID"/>
+			<item value="getMember("/>
+			<item value="userCheck("/>
+			<item value="getConnection()"/>
+			<item value="getInstance()"/>
+			<item value="if"/>
+		</list>
+	</section>
+</section>
